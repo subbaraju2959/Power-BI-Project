@@ -94,10 +94,9 @@ The project uses structured datasets related to:
 
 ## 📬 Contact
 
-**Subbaraju**  
-B.Tech Final Year | Data Analytics & Machine Learning Enthusiast  
-GitHub: https://github.com/subbaraju2959  
-LinkedIn: https://www.linkedin.com/
+**Subbaraju**   
+
+LinkedIn:https://www.linkedin.com/in/subba-raju-814188323/
 
 ---
 
